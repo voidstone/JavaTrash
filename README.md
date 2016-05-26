@@ -1,2 +1,3 @@
 # JavaTrash
-java code 
+BinarySearchTree.java - add key/value to bt, find key 
+
